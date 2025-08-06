@@ -24,6 +24,7 @@ This repository consists information and resources to get started and excel in C
 
 ## What actually are CTFs ?
 A CTF is like a puzzle game for hackers. In simple words, we are given a machine or program which is hackeable and we get a string that we submit and we get points. The flags are usually in the form of `FLAG{y0u-h4v3-f0und-4-fl4g}`.
+<!-- d4rk{1_d0nt_kn0w_h0w_t0_4ctua11y_b3_g00d_4t_3tf5}code -->
 
 --- 
 
