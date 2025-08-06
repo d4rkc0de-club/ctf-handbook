@@ -135,8 +135,8 @@ You typically receive a binary file (a.out, chall, vuln, etc.) and are told to f
 
 ### Learning and Practice
 #### [pwn.college](https://pwn.college/)
-    - [Introduction](https://pwn.college/intro-to-cybersecurity/binary-exploitation/) - Gets into basic buffer overflows, shell-coding and return oriented programming. (must do)
-    - [Memory Errors](https://pwn.college/program-security/memory-errors/) - Gets into popular safety checks (ASLR, Canaries) and how to bypass them.
+  - [Introduction](https://pwn.college/intro-to-cybersecurity/binary-exploitation/) - Gets into basic buffer overflows, shell-coding and return oriented programming. (must do)
+  - [Memory Errors](https://pwn.college/program-security/memory-errors/) - Gets into popular safety checks (ASLR, Canaries) and how to bypass them.
 #### [ROP](https://ropemporium.com/index.html)
 Teaches Return Oriented Programming, techniques like ret2win, ret2libc, ret2csu, stack pivoting etc.
 #### [Heap Exploitation](https://github.com/shellphish/how2heap)
